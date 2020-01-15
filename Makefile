@@ -3,9 +3,7 @@
 # project subdirectory.
 #
 
-PROJECT_NAME := simple_ota
-
-EXTRA_COMPONENT_DIRS = $(IDF_PATH)/examples/common_components/protocol_examples_common
+PROJECT_NAME := nvs-rw-value
 
 include $(IDF_PATH)/make/project.mk
 
