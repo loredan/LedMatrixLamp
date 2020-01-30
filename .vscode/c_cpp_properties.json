@@ -46,6 +46,8 @@
                 "${config:idf.espIdfPath}/components/libsodium/include",
                 "${config:idf.espIdfPath}/components/log/include",
                 "${config:idf.espIdfPath}/components/lwip/include",
+                "${config:idf.espIdfPath}/components/lwip/lwip/src/include",
+                "${config:idf.espIdfPath}/components/lwip/port/esp32/include",
                 "${config:idf.espIdfPath}/components/mbedtls/include",
                 "${config:idf.espIdfPath}/components/mdns/include",
                 "${config:idf.espIdfPath}/components/mqtt/include",

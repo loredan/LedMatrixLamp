@@ -7,5 +7,19 @@
     "[c]": {
         "editor.quickSuggestions": true
     },
-    "C_Cpp.intelliSenseEngineFallback": "Disabled"
+    "C_Cpp.intelliSenseEngineFallback": "Disabled",
+    "files.associations": {
+        "esp_wifi.h": "c",
+        "esp_event.h": "c",
+        "esp_event_legacy.h": "c",
+        "tcpip_adapter.h": "c",
+        "ip_addr.h": "c",
+        "esp_wifi_types.h": "c",
+        "opt.h": "c",
+        "debug.h": "c",
+        "arch.h": "c",
+        "cc.h": "c",
+        "lwipopts.h": "c",
+        "sntp.h": "c"
+    }
 } 
