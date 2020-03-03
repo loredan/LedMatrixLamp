@@ -20,6 +20,12 @@
         "arch.h": "c",
         "cc.h": "c",
         "lwipopts.h": "c",
-        "sntp.h": "c"
+        "sntp.h": "c",
+        "dhcpserver.h": "c",
+        "esp_system.h": "c",
+        "freertos.h": "c",
+        "ws2812.h": "c",
+        "rmt.h": "c",
+        "patterns.h": "c"
     }
 } 
